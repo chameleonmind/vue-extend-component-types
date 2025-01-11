@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "outDir": "../../dist/NotShow"
+  },
+  "include": [
+    "./NotShow.vue",
+    "types/*.ts"
+  ]
+}

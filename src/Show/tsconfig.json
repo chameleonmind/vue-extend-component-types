@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "outDir": "../../dist/Show"
+  },
+  "include": ["ShowTest.vue",
+    "types/index.ts",
+    "types/show.d.ts"
+  ]
+}
